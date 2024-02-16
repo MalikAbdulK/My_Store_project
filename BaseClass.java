@@ -403,6 +403,7 @@ public String takeScreenshot() throws IOException {
 	FileUtils.copyFile(scrfile, destfile);
 	return destfile.getAbsolutePath();
 	}
+	public void main
 
 
 }
