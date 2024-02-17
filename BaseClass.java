@@ -404,6 +404,12 @@ public String takeScreenshot() throws IOException {
 	return destfile.getAbsolutePath();
 	}
 	public void main
+// new two mwthods
+ public void boolen(){
+		
 
+}
+public void nonboolen(){
+		
 
 }
